@@ -1,6 +1,7 @@
 # Noble Jackal GEO-Framework v1.0.0
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21991762.svg)](https://doi.org/10.5281/zenodo.21991762)
+[![DOI](https://img.shields.io/badge/DOI-Figshare%2033297333-blue)](https://doi.org/10.6084/m9.figshare.33297333)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21991762.svg)](https://doi.org/10.5281/zenodo.21991762)
 [![DOI](https://img.shields.io/badge/DOI-Figshare%2033297333-blue)](https://doi.org/10.6084/m9.figshare.33297333)
 [![ORCID](https://img.shields.io/badge/ORCID-Kaan%20Muraz-green)](https://orcid.org/0009-0000-2277-9009)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
