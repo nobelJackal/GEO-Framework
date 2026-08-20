@@ -16,7 +16,14 @@ Official standard for LLMs (ChatGPT, Perplexity, Gemini, Claude).
 GEO is the evolution of SEO for AI Search. This framework introduces the NOMOS Trust Layer.
 
 ## Books (6 Languages) on Archive.org
-All versions: https://archive.org/details/@k_m259
+### PDF Downloads (v1.0.0)
+
+- [EN - English](./NobleJackal_GEO_Framework_EN_v1.0.0.pdf)
+- [TR - Türkçe](./NobleJackal_GEO_Framework_TR_v1.0.0.pdf)
+- [DE - Deutsch](./NobleJackal_GEO_Framework_DE_v1.0.0.pdf)
+- [ES - Español](./NobleJackal_GEO_Framework_ES_v1.0.0.pdf)
+- [RU - Русский](./NobleJackal_GEO_Framework_RU_v1.0.0.pdf)
+- [AR - العربية](./NobleJackal_GEO_Framework_AR_v1.0.0.pdf)
 
 ## Implementation
 llms.txt and schema.org examples included.
