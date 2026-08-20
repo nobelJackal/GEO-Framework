@@ -37,3 +37,17 @@ First systematic standard for Generative Engine Optimization (ChatGPT, Perplexit
 
 ### Citation
 Muraz, K. (2026). GEO-Framework v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.21991762
+
+## 📚 Academic Citations
+
+This work is archived in multiple academic repositories:
+
+**GEO-Framework v1.0.0:**
+- Zenodo (CERN): https://doi.org/10.5281/zenodo.21991762
+- Figshare (Springer Nature): https://doi.org/10.6084/m9.figshare.33297333
+
+**99 Errors in GEO v1.0.0:**
+- Zenodo (CERN): https://doi.org/10.5281/zenodo.21992388
+- Figshare (Springer Nature): https://doi.org/10.6084/m9.figshare.33297417
+
+Author: Kaan Muraz | ORCID: 0009-0000-2277-9009
